@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
@@ -44,6 +45,8 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 ### Node template
+=======
+>>>>>>> 281a501f7fb264bf8514e14ed3e9d0c9a0d8f677
 # Logs
 logs
 *.log
